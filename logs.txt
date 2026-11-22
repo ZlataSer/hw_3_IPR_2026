@@ -1,0 +1,6 @@
+2026-11-17 14:37:57,930 listening port=8000 storage=sqlite
+2026-11-22 14:48:14,871 listening port=8000 storage=sqlite
+2026-11-22 14:48:17,656 http 172.17.0.1 "GET / HTTP/1.1" 200 -
+2026-11-22 14:48:42,226 http 172.17.0.1 "POST /increment HTTP/1.1" 200 -
+2026-11-22 14:48:56,022 http 172.17.0.1 "GET / HTTP/1.1" 200 -
+2026-11-22 14:49:07,517 http 172.17.0.1 "GET /readyz HTTP/1.1" 200 -
